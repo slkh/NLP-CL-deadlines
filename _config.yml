@@ -1,15 +1,15 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
+title: NLP Conference/Workshop Deadlines for CAMeLers # (Maintained by @abhshkdz)
 # email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+description: Countdowns to top NLP conference deadlines
+author: Go Inoue
 
-domain: "aideadlin.es"
-baseurl: ""
+domain:
+baseurl: "https://go-inoue.github.io/camel-deadlines"
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+twitter_username:
+twitter_hashtag:
+github_username: go-inoue
+github_repo: camel-deadlines
 
-markdown: kramdown
-ga_id: UA-36274081-2
+markdown:
+ga_id:
