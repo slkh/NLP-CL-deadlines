@@ -19,7 +19,7 @@
   timezone: Etc/GMT+12
   date: June 2-June 7, 2019
   place: Minneapolis, USA
-  sub: CONF
+  sub: CF
 
 - name: ACL
   year: 2019
@@ -29,7 +29,7 @@
   timezone: Etc/GMT+12
   date: July 28-August 2, 2019
   place: Florence, Italy
-  sub: CONF
+  sub: CF
 
 - name: EMNLP
   year: 2018
@@ -39,7 +39,7 @@
   timezone: America/Los_Angeles
   date: November 2-4, 2018
   place: Brussels, Belgium
-  sub: CONF
+  sub: CF
 
 - name: CoNLL
   year: 2018
@@ -49,4 +49,4 @@
   timezone: Etc/GMT+12
   date: October 31 - November 1, 2018
   place: Brussels, Belgium
-  sub: CONF
+  sub: CF
