@@ -11,7 +11,7 @@
   place: Hawaii, USA
   sub: CF
 
-- name: NAACL(Abstract & Keywords)
+- name: NAACL (Abstract & Keywords)
   year: 2019
   id: naacl19abst
   link: http://naacl2019.org/
@@ -21,7 +21,7 @@
   place: Minneapolis, USA
   sub: CF
 
-- name: NAACL(Paper)
+- name: NAACL (Paper)
   year: 2019
   id: naacl19paper
   link: http://naacl2019.org/
