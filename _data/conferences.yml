@@ -6,16 +6,26 @@
   id: aaai2019demo
   link: https://aaai.org/Conferences/AAAI-19/aaai19demoscall/
   deadline: "2018-09-21 23:59:59"
-  timezone: America/Los_Angeles
+  timezone: Etc/GMT+10
   date: January 27-February 1, 2019
   place: Hawaii, USA
   sub: CF
 
-- name: NAACL
+- name: NAACL(Abstract & Keywords)
   year: 2019
-  id: naacl19
+  id: naacl19abst
   link: http://naacl2019.org/
-  deadline: TBA
+  deadline: "2018-12-03 23:59:59"
+  timezone: Etc/GMT+12
+  date: June 2-June 7, 2019
+  place: Minneapolis, USA
+  sub: CF
+
+- name: NAACL(Paper)
+  year: 2019
+  id: naacl19paper
+  link: http://naacl2019.org/
+  deadline: "2018-12-10 23:59:59"
   timezone: Etc/GMT+12
   date: June 2-June 7, 2019
   place: Minneapolis, USA
