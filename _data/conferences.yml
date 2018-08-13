@@ -1,16 +1,6 @@
 
 ---
 
-- name: AAAI Demo
-  year: 2019
-  id: aaai2019demo
-  link: https://aaai.org/Conferences/AAAI-19/aaai19demoscall/
-  deadline: "2018-09-21 23:59:59"
-  timezone: Etc/GMT+10
-  date: January 27-February 1, 2019
-  place: Hawaii, USA
-  sub: CF
-
 - name: NAACL (Abstract & Keywords)
   year: 2019
   id: naacl19abst
