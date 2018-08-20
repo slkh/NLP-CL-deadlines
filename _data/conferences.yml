@@ -1,6 +1,16 @@
 
 ---
 
+- name: SIGMORPHON (Camera Ready)
+  year: 2018
+  id: sigmorphon2018cr
+  link: https://sigmorphon.github.io/workshops/2018/
+  deadline: "2018-8-31 23:59:59"
+  timezone: Etc/GMT+12
+  date: October 31, 2018
+  place: Brussels, Belgium
+  sub: WS
+
 - name: NAACL (Abstract & Keywords)
   year: 2019
   id: naacl19abst
