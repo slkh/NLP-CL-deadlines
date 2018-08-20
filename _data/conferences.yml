@@ -1,6 +1,16 @@
 
 ---
 
+- name: EMNLP (Camera Ready)
+  year: 2018
+  id: emnlp2018cr
+  link: http://emnlp2018.org/
+  deadline: "2018-8-27 23:59:59"
+  timezone: Etc/GMT+12
+  date: October 31-November 4, 2018
+  place: Brussels, Belgium
+  sub: CF
+
 - name: SIGMORPHON (Camera Ready)
   year: 2018
   id: sigmorphon2018cr
