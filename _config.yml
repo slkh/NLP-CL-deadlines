@@ -4,7 +4,7 @@ description: Countdowns to deadlines for CAMeLeers
 author: Go Inoue
 
 domain: "https://go-inoue.github.io/camel-deadlines/"
-baseurl: /phdeadlines
+baseurl: /camel-deadlines
 
 twitter_username: abhshkdz
 twitter_hashtag: machinelearning
