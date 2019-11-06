@@ -3,3 +3,7 @@
   sub: CF
 - name: Workshop
   sub: WS
+- name: Proposal
+  sub: PR
+- name: Admin
+  sub: AD

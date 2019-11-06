@@ -1,52 +1,32 @@
 
 ---
 
-- name: EMNLP (Camera Ready)
-  year: 2018
-  id: emnlp2018cr
-  link: http://emnlp2018.org/
-  deadline: "2018-8-27 23:59:59"
-  timezone: Etc/GMT+12
-  date: October 31-November 4, 2018
-  place: Brussels, Belgium
+- title: LREC
+  year: 2020
+  id: lrec20
+  link: https://lrec2020.lrec-conf.org/en/
+  deadline: '2019-11-25 23:59:59'
+  timezone: Europe/Paris
+  date: May 11-16, 2020
+  place: Marseille, France
   sub: CF
 
-- name: SIGMORPHON (Camera Ready)
-  year: 2018
-  id: sigmorphon2018cr
-  link: https://sigmorphon.github.io/workshops/2018/
-  deadline: "2018-8-31 23:59:59"
-  timezone: Etc/GMT+12
-  date: October 31, 2018
-  place: Brussels, Belgium
-  sub: WS
-
-- name: NAACL (Abstract & Keywords)
-  year: 2019
-  id: naacl19abst
-  link: http://naacl2019.org/
-  deadline: "2018-12-03 23:59:59"
-  timezone: Etc/GMT+12
-  date: June 2-June 7, 2019
-  place: Minneapolis, USA
+- title: ACL
+  year: 2020
+  id: acl20
+  link: https://acl2020.org/
+  deadline: '2019-12-09 23:59:59'
+  timezone: UTC-12
+  date: July 6-8, 2020
+  place: Seattle, Washington, USA
   sub: CF
 
-- name: NAACL (Paper)
-  year: 2019
-  id: naacl19paper
-  link: http://naacl2019.org/
-  deadline: "2018-12-10 23:59:59"
-  timezone: Etc/GMT+12
-  date: June 2-June 7, 2019
-  place: Minneapolis, USA
-  sub: CF
-
-- name: ACL
-  year: 2019
-  id: acl19
-  link: http://acl2019.org/
-  deadline: TBA
-  timezone: Etc/GMT+12
-  date: July 28-August 2, 2019
-  place: Florence, Italy
+- title: COLING
+  year: 2020
+  id: coling20
+  link: https://coling2020.org/
+  deadline: '2020-04-08 23:59:59'
+  timezone: UTC+1
+  date: September 13-18, 2020
+  place: Barcelona, Spain
   sub: CF

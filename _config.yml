@@ -1,15 +1,17 @@
-title: NLP Conference Deadlines for CAMeLers@NYUAD # (Maintained by @abhshkdz)
+title: CAMeL Deadlines # (Maintained by @abhshkdz)
 # email: abhshkdz@vt.edu
-description: Countdowns to top NLP conference deadlines
+description: Countdowns to deadlines for CAMeLeers
 author: Go Inoue
 
-domain:
-baseurl: "https://go-inoue.github.io/camel-deadlines"
+domain: "https://go-inoue.github.io/camel-deadlines/"
+baseurl: /phdeadlines
 
-twitter_username:
-twitter_hashtag:
+twitter_username: abhshkdz
+twitter_hashtag: machinelearning
 github_username: go-inoue
 github_repo: camel-deadlines
 
-markdown:
-ga_id:
+markdown: kramdown
+#ga_id: UA-36274081-2
+
+include: ['_pages']
