@@ -15,7 +15,7 @@ body *::selection {
 }
 
 .top-strip {
-  background-color: #57068c;
+  background-color: #af322b;
   height: 0.25em;
   width: 100%;
 }
@@ -28,7 +28,7 @@ h1 {
   margin: 0 0 10px;
   font-size: 30px;
   line-height: 35px;
-  color: #57068c;
+  color: #af322b;
 }
 
 h2 {
@@ -141,16 +141,16 @@ footer {
 }
 
 .conf-sub::selection {
-  background: #57068c;
+  background: #af322b;
 }
 
 .checkbox input[type="checkbox"]:checked:after {
-  background-color: #57068c;
-  border-color: #57068c;
+  background-color: #af322b;
+  border-color: #af322b;
 }
 
 .checkbox input[type="checkbox"]:after, .checkbox input[type="checkbox"]:focus:after {
-  border-color: #57068c;
+  border-color: #af322b;
 }
 
 @media only screen and (max-width: 780px) {
