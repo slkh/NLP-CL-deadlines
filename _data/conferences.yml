@@ -9,8 +9,8 @@
   timezone: Europe/Paris
   date: May 11-16, 2020
   place: Marseille, France
-  note: '<b>NOTE</b>: Notification on February 14, 2020.'
   sub: CF
+  note: '<b>NOTE</b>: Notification on February 14, 2020.'
 
 - title: ACL
   year: 2020
@@ -20,8 +20,8 @@
   timezone: UTC-12
   date: July 6-8, 2020
   place: Seattle, Washington, USA
-  note: '<b>NOTE</b>: Notification on April 3, 2020.'
   sub: CF
+  note: '<b>NOTE</b>: Notification on April 3, 2020.'
 
 - title: COLING
   year: 2020
@@ -31,5 +31,5 @@
   timezone: UTC+1
   date: September 13-18, 2020
   place: Barcelona, Spain
-   note: '<b>NOTE</b>: Notification on 10 June, 2020.'
   sub: CF
+  note: '<b>NOTE</b>: Notification on 10 June, 2020.'
