@@ -5,7 +5,7 @@
   year: 2020
   id: lrec20
   link: https://lrec2020.lrec-conf.org/en/
-  deadline: '2019-03-06 23:59:59'
+  deadline: '2020-03-06 23:59:59'
   timezone: Europe/Paris
   date: May 11-16, 2020
   place: Marseille, France
@@ -16,11 +16,11 @@
   year: 2020
   id: acl20
   link: https://acl2020.org/
-  deadline: '2019-12-09 23:59:59'
+  deadline: '2020-04-24 23:59:59'
   timezone: UTC-12
   date: July 6-8, 2020
   place: Seattle, Washington, USA
-  sub: CF
+  sub: CR
   note: '<b>NOTE</b>: Notification on April 3, 2020.'
 
 - title: COLING
