@@ -3,8 +3,6 @@
   sub: CF
 - name: Workshop
   sub: WS
-- name: Camera Ready
-  sub: CR
 - name: Proposal
   sub: PR
 - name: Admin
