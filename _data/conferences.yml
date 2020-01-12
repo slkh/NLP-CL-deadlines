@@ -22,3 +22,14 @@
   place: Suzhou, China
   sub: CF
   note: '<b>NOTE</b>: Notification on Sep 11, 2020.'
+
+- title: EMNLP
+  year: 2020
+  id: emnlp20
+  link: https://2020.emnlp.org/
+  deadline: '2020-05-08 23:59:59'
+  timezone: UTC+1
+  date: November 8-12, 2020
+  place: Punta Cana, Dominican Republic
+  sub: CF
+  note: '<b>NOTE</b>: Notification on August 8, 2020.'
