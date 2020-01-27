@@ -1,6 +1,17 @@
 
 ---
 
+- title: EAMT
+  year: 2020
+  id: eamt20
+  link: https://eamt2020.inesc-id.pt/
+  deadline: '2020-03-06 23:59:59'
+  timezone: UTC+2
+  date: May 4-6, 2020
+  place: LISBON, PORTUGAL
+  sub: CF
+  note: '<b>NOTE</b>: Notification on April 3, 2020.'
+
 - title: COLING
   year: 2020
   id: coling20
