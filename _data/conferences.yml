@@ -12,6 +12,17 @@
   sub: CF
   note: '<b>NOTE</b>: Notification on June 10, 2020.'
 
+- title: AMTA
+  year: 2020
+  id: amta20
+  link: https://amtaweb.org/
+  deadline: '2020-04-27 23:59:59'
+  timezone: UTC–12
+  date: September 8-12, 2020
+  place: Orlando, Florida
+  sub: CF
+  note: '<b>NOTE</b>: Notification on June 8, 2020.'
+
 - title: EMNLP
   year: 2020
   id: emnlp20
