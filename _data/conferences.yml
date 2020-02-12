@@ -45,6 +45,17 @@
   sub: CF
   note: '<b>NOTE</b>: Notification on August 8, 2020.'
 
+- title: CoNLL
+  year: 2020
+  id: conll20
+  link: https://www.conll.org/2020/
+  deadline: '2020-06-05 23:59:59'
+  timezone: UTC-12
+  date: November 11-12, 2020
+  place: Punta Cana, Dominican Republic
+  sub: CF
+  note: '<b>NOTE</b>: Notification on August 28, 2020.'
+
 - title: AACL-IJCNLP
   year: 2020
   id: AACL
