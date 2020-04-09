@@ -1,28 +1,6 @@
 
 ---
 
-- title: AMTA
-  year: 2020
-  id: amta20
-  link: https://amtaweb.org/
-  deadline: '2020-04-27 23:59:59'
-  timezone: UTC–12
-  date: September 8-12, 2020
-  place: Orlando, Florida
-  sub: CF
-  note: '<b>NOTE</b>: Notification on June 8, 2020.'
-
-- title: EMNLP
-  year: 2020
-  id: emnlp20
-  link: https://2020.emnlp.org/
-  deadline: '2020-05-08 23:59:59'
-  timezone: UTC+1
-  date: November 8-12, 2020
-  place: Punta Cana, Dominican Republic
-  sub: CF
-  note: '<b>NOTE</b>: Notification on August 8, 2020.'
-
 - title: CoNLL
   year: 2020
   id: conll20
@@ -30,9 +8,20 @@
   deadline: '2020-06-05 23:59:59'
   timezone: UTC-12
   date: November 11-12, 2020
-  place: Punta Cana, Dominican Republic
+  place: Online
   sub: CF
   note: '<b>NOTE</b>: Notification on August 28, 2020.'
+
+- title: EMNLP
+  year: 2020
+  id: emnlp20
+  link: https://2020.emnlp.org/
+  deadline: '2020-06-11 23:59:59'
+  timezone: UTC+1
+  date: November 16-20, 2020
+  place: Online
+  sub: CF
+  note: '<b>NOTE</b>: Notification on September 14, 2020.'
 
 - title: AACL-IJCNLP
   year: 2020
