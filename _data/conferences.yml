@@ -1,17 +1,6 @@
 
 ---
 
-- title: CoNLL
-  year: 2020
-  id: conll20
-  link: https://www.conll.org/2020/
-  deadline: '2020-06-05 23:59:59'
-  timezone: UTC-12
-  date: November 11-12, 2020
-  place: Online
-  sub: CF
-  note: '<b>NOTE</b>: Notification on August 28, 2020.'
-
 - title: EMNLP
   year: 2020
   id: emnlp20
@@ -44,3 +33,14 @@
   place: Barcelona, Spain
   sub: CF
   note: '<b>NOTE</b>: Notification on October 1, 2020.'
+
+  - title: CoNLL
+  year: 2020
+  id: conll20
+  link: https://www.conll.org/2020/
+  deadline: '2020-07-17 23:59:59'
+  timezone: UTC-12
+  date: November 19-20, 2020
+  place: Online
+  sub: CF
+  note: '<b>NOTE</b>: Notification on September 28, 2020.'
