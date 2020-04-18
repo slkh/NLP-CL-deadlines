@@ -34,7 +34,7 @@
   sub: CF
   note: '<b>NOTE</b>: Notification on October 1, 2020.'
 
-  - title: CoNLL
+- title: CoNLL
   year: 2020
   id: conll20
   link: https://www.conll.org/2020/
