@@ -55,3 +55,14 @@
   place: Online
   sub: CF
   note: '<b>NOTE</b>: Notification on September 29, 2020.'
+
+- title: EACL
+  year: 2021
+  id: eacl2021
+  link: https://2021.eacl.org/
+  deadline: '2020-09-20 23:59:59'
+  timezone: UTC-12
+  date: April 21-23, 2021
+  place: Kyiv, Ukraine
+  sub: CF
+  note: '<b>NOTE</b>: Notification on November 11, 2020.'
