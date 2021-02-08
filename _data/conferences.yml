@@ -1,6 +1,17 @@
 
 ---
 
+- title: MT Summit
+  year: 2021
+  id: mts2021
+  link: https://amtaweb.org/
+  deadline: '2021-05-10 23:59:59'
+  timezone: UTC-12
+  date: Aug 16-20, 2021
+  place: Florida, USA
+  sub: CF
+  note: '<b>NOTE</b>: Notification on June 21, 2021.'
+
 - title: EMNLP
   year: 2021
   id: emnlp21
@@ -12,13 +23,3 @@
   sub: CF
   note: '<b>NOTE</b>: Abstract Submission Deadline on May 10, 2021; Notification on August 25, 2021.'
 
-- title: MT Summit
-  year: 2021
-  id: mts2021
-  link: https://amtaweb.org/
-  deadline: '2021-05-10 23:59:59'
-  timezone: UTC-12
-  date: Aug 16-20, 2021
-  place: Florida, USA
-  sub: CF
-  note: '<b>NOTE</b>: Notification on June 21, 2021.'
