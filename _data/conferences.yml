@@ -1,16 +1,16 @@
 
 ---
 
-- title: WANLP (Camera Ready)
+- title: SIGMORPHON
   year: 2021
-  id: wnalp2021
-  link: https://sites.google.com/view/wanlp2021
-  deadline: '2021-03-01 23:59:59'
+  id: sigmorphon2021
+  link: https://sigmorphon.github.io/workshops/2021/
+  deadline: '2021-04-26 23:59:59'
   timezone: UTC-12
-  date: April 19, 2021
-  place: Online
+  date: August 5-6, 2021
+  place: Bangkok, Thailand
   sub: WS
-  note: '<b>NOTE</b>: Upload video recording by March 8, 2021.'
+  note: '<b>NOTE</b>: Notification on May 28, 2021.'
 
 - title: MT Summit
   year: 2021
