@@ -45,7 +45,7 @@
   sub: CF
   note: '<b>NOTE</b>: Notification on August 31, 2021.'
 
-  - title: WMT
+- title: WMT
   year: 2021
   id: wmt21
   link: http://statmt.org/wmt21/
