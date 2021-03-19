@@ -44,3 +44,14 @@
   place: Punta Cana, Dominican Republic
   sub: CF
   note: '<b>NOTE</b>: Notification on August 31, 2021.'
+
+  - title: WMT
+  year: 2021
+  id: wmt21
+  link: http://statmt.org/wmt21/
+  deadline: '2021-08-05 23:59:59'
+  timezone: UTC-12
+  date: November 10-11, 2021
+  place: Punta Cana, Dominican Republic
+  sub: CF
+  note: '<b>NOTE</b>: Notification on September 5, 2021.'
