@@ -34,6 +34,17 @@
   sub: CF
   note: '<b>NOTE</b>: Abstract Submission Deadline on May 10, 2021; Notification on August 25, 2021.'
 
+- title: INLG
+  year: 2021
+  id: inlg21
+  link: https://inlg2021.github.io/
+  deadline: '2021-05-31 23:59:59'
+  timezone: UTC-12
+  date: September 20-24, 2021
+  place: Aberdeen, United Kingdom
+  sub: CF
+  note: '<b>NOTE</b>: Notification on July 12, 2021.'
+
 - title: CoNLL
   year: 2021
   id: conll21
