@@ -1,57 +1,24 @@
 
 ---
 
-- title: MT Summit
-  year: 2021
-  id: mts2021
-  link: https://amtaweb.org/
-  deadline: '2021-05-10 23:59:59'
+- title: ACL
+  year: 2022
+  id: acl2022
+  link: https://www.2022.aclweb.org/
+  deadline: '2021-11-15 23:59:59'
   timezone: UTC-12
-  date: Aug 16-20, 2021
-  place: Florida, USA
+  date: May 22-27, 2022
+  place: Dublin, Ireland
   sub: CF
-  note: '<b>NOTE</b>: Notification on June 21, 2021.'
+  note: '<b>NOTE</b>: Notification on February 20, 2022.'
 
-- title: EMNLP
-  year: 2021
-  id: emnlp21
-  link: https://2021.emnlp.org/
-  deadline: '2021-05-17 23:59:59'
-  timezone: UTC-12
-  date: November 7-9, 2021
-  place: Punta Cana, Dominican Republic
+- title: LREC
+  year: 2022
+  id: lrec2022
+  link: http://elra.info/en/lrec/lrec-2022/
+  deadline: '2022-01-10 23:59:59'
+  timezone: UTC+2
+  date: June 21-23, 2022
+  place: Marseille, France
   sub: CF
-  note: '<b>NOTE</b>: Abstract Submission Deadline on May 10, 2021; Notification on August 25, 2021.'
-
-- title: INLG
-  year: 2021
-  id: inlg21
-  link: https://inlg2021.github.io/
-  deadline: '2021-05-31 23:59:59'
-  timezone: UTC-12
-  date: September 20-24, 2021
-  place: Aberdeen, United Kingdom
-  sub: CF
-  note: '<b>NOTE</b>: Notification on July 12, 2021.'
-
-- title: CoNLL
-  year: 2021
-  id: conll21
-  link: https://www.conll.org/
-  deadline: '2021-06-14 23:59:59'
-  timezone: UTC-12
-  date: November 10-11, 2021
-  place: Punta Cana, Dominican Republic
-  sub: CF
-  note: '<b>NOTE</b>: Notification on August 31, 2021.'
-
-- title: WMT
-  year: 2021
-  id: wmt21
-  link: http://statmt.org/wmt21/
-  deadline: '2021-08-05 23:59:59'
-  timezone: UTC-12
-  date: November 10-11, 2021
-  place: Punta Cana, Dominican Republic
-  sub: CF
-  note: '<b>NOTE</b>: Notification on September 5, 2021.'
+  note: '<b>NOTE</b>: '
