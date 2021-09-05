@@ -22,3 +22,14 @@
   place: Marseille, France
   sub: CF
   note: '<b>NOTE</b>: '
+
+- title: NAACL
+  year: 2022
+  id: naacl2022
+  link: https://www.2022.aclweb.org/
+  deadline: '2022-01-15 23:59:59'
+  timezone: UTC-12
+  date: July 10-15, 2022
+  place: Seattle, USA
+  sub: CF
+  note: '<b>NOTE</b>: Notification on April 7, 2022.'
