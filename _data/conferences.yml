@@ -1,17 +1,6 @@
 
 ---
 
-- title: ACL
-  year: 2022
-  id: acl2022
-  link: https://www.2022.aclweb.org/
-  deadline: '2021-11-15 23:59:59'
-  timezone: UTC-12
-  date: May 22-27, 2022
-  place: Dublin, Ireland
-  sub: CF
-  note: '<b>NOTE</b>: Notification on February 20, 2022.'
-
 - title: LREC
   year: 2022
   id: lrec2022
@@ -33,3 +22,14 @@
   place: Seattle, USA
   sub: CF
   note: '<b>NOTE</b>: Notification on April 7, 2022.'
+
+- title: COLING
+  year: 2022
+  id: coling2022
+  link: https://coling2022.org/
+  deadline: '2022-05-17 23:59:59'
+  timezone: UTC-12
+  date: October 12-17, 2022
+  place: Gyeongju, Republic of Korea
+  sub: CF
+  note: '<b>NOTE</b>: Notification on August 15, 2022.'
