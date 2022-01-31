@@ -1,27 +1,16 @@
 
 ---
 
-- title: LREC
+- title: INLG
   year: 2022
-  id: lrec2022
-  link: http://elra.info/en/lrec/lrec-2022/
-  deadline: '2022-01-17 23:59:59'
-  timezone: UTC+1
-  date: June 21-23, 2022
-  place: Marseille, France
-  sub: CF
-  note: '<b>NOTE</b>: '
-
-- title: NAACL
-  year: 2022
-  id: naacl2022
-  link: https://www.2022.aclweb.org/
-  deadline: '2022-01-15 23:59:59'
+  id: inlg2022
+  link: https://inlgmeeting.github.io/calls.html
+  deadline: '2022-03-15 23:59:59'
   timezone: UTC-12
-  date: July 10-15, 2022
-  place: Seattle, USA
+  date: July 18-22, 2022
+  place: Maine, USA
   sub: CF
-  note: '<b>NOTE</b>: Notification on April 7, 2022.'
+  note: '<b>NOTE</b>: Commit to INLG deadline on May 3, 2022.'
 
 - title: COLING
   year: 2022
