@@ -55,3 +55,14 @@
   place: Gyeongju, Republic of Korea
   sub: CF
   note: '<b>NOTE</b>: Notification on August 15, 2022.'
+
+- title: AACL
+  year: 2022
+  id: aacl2022
+  link: https://www.aacl2022.org/Submission/paper
+  deadline: '2022-07-15 23:59:59'
+  timezone: UTC-12
+  date: October 12-17, 2022
+  place: Taipei City, Taiwan
+  sub: CF
+  note: '<b>NOTE</b>: Notification on September 20, 2022.'
