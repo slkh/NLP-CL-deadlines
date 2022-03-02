@@ -1,15 +1,15 @@
-title: CAMeL Deadlines # (Maintained by @abhshkdz)
+title: NLP/CL Deadlines # (Maintained by @abhshkdz)
 # email: abhshkdz@vt.edu
-description: Countdowns to deadlines for CAMeLeers
-author: Go Inoue
+description: Countdowns to deadlines for CompLings at SBULing
+author: Salam Khalifa
 
-domain: "https://go-inoue.github.io/camel-deadlines/"
+domain: "https://slkh.github.io/NLP-CL-deadlines/"
 baseurl: /camel-deadlines
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: go-inoue
-github_repo: camel-deadlines
+twitter_username: salamkhalifa
+twitter_hashtag: compling
+github_username: slkh
+github_repo: nlp-cl-deadlines
 
 markdown: kramdown
 #ga_id: UA-36274081-2
