@@ -1,5 +1,16 @@
 
 ---
+- title: CMCL
+  year: 2022
+  id: CMCL2022
+  link: https://cmclorg.github.io/CfP
+  deadline: '2022-03-07 23:59:59'
+  timezone: UTC-12
+  date: May 26, 2022
+  place: Dublin, Ireland
+  sub: WS
+  note: '<b>NOTE</b>: Notification on March 26, 2022.'
+
 - title: SIGMORPHON
   year: 2022
   id: sigmorphon2022
