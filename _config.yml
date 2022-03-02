@@ -4,7 +4,7 @@ description: Countdowns to deadlines for CompLings at SBULing
 author: Salam Khalifa
 
 domain: "https://slkh.github.io/NLP-CL-deadlines/"
-baseurl: /camel-deadlines
+baseurl: /NLP-CL-deadlines
 
 twitter_username: salamkhalifa
 twitter_hashtag: compling
