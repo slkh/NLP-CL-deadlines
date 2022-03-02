@@ -3,5 +3,5 @@
   sub: CF
 - name: Workshop
   sub: WS
-- name: Admin
-  sub: AD
+- name: Proposal
+  sub: PR
