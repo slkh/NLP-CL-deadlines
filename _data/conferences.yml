@@ -1,5 +1,16 @@
 
 ---
+- title: LAW
+  year: 2022
+  id: LAW2022
+  link: https://cemantix.org/workshop/law/xvi/
+  deadline: '2022-04-08 23:59:59'
+  timezone: UTC-12
+  date: June 24, 2022
+  place: Dublin, Ireland
+  sub: WS
+  note: '<b>NOTE</b>: Notification on March 2, 2022.'
+
 - title: CMCL
   year: 2022
   id: CMCL2022
