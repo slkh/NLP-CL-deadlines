@@ -59,10 +59,10 @@
   year: 2023
   id: scil2023
   link: https://blogs.umass.edu/scil/scil-2022-cfp/
+  deadline: '2023-10-01 23:59:59'
+  timezone: UTC-12
   sub: UC
   note: '<b>NOTE</b>: Deadline around Oct 2022.'
-#  deadline: '2022-07-15 23:59:59'
-#  timezone: UTC-12
 #  date: October 12-17, 2022
 #  place: Taipei City, Taiwan
 
@@ -70,10 +70,10 @@
   year: 2023
   id: lsa2023
   link: https://www.linguisticsociety.org/meetings-institutes/annual-meetings/future
+  deadline: '2022-06-01 23:59:59'
+  timezone: UTC-12
   sub: UC
   note: '<b>NOTE</b>: Deadline around late spring/early summer 2022. - Non archival'
-#  deadline: '2022-07-15 23:59:59'
-#  timezone: UTC-12
 #  date: October 12-17, 2022
 #  place: Taipei City, Taiwan
 
@@ -81,10 +81,10 @@
   year: 2023
   id: CMCL2023
   link: https://cmclorg.github.io/CfP
+  deadline: '2023-03-01 23:59:59'
+  timezone: UTC-12
   sub: UC
-  note: '<b>NOTE</b>: Deadline around early 2023'
-  # deadline: '2022-03-07 23:59:59'
-  # timezone: UTC-12
+  note: '<b>NOTE</b>: Deadline early 2023'
   # date: May 26, 2022
   # place: Dublin, Ireland
 
@@ -92,10 +92,10 @@
   year: 2023
   id: cogsci2023
   link: https://cognitivesciencesociety.org/cogsci-2022/
+  deadline: '2022-03-01 23:59:59'
+  timezone: UTC-12
   sub: UC
-  note: '<b>NOTE</b>: Deadline around early 2023 - Non archival but with proceedings'
-  # deadline: '2022-03-07 23:59:59'
-  # timezone: UTC-12
+  note: '<b>NOTE</b>: Deadline early 2023 - Non archival but with proceedings'
   # date: May 26, 2022
   # place: Dublin, Ireland
 
