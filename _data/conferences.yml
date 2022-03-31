@@ -54,3 +54,48 @@
   place: Taipei City, Taiwan
   sub: CF
   note: '<b>NOTE</b>: Notification on September 20, 2022.'
+
+- title: SCiL
+  year: 2023
+  id: scil2023
+  link: https://blogs.umass.edu/scil/scil-2022-cfp/
+#  deadline: '2022-07-15 23:59:59'
+#  timezone: UTC-12
+#  date: October 12-17, 2022
+#  place: Taipei City, Taiwan
+  sub: UC
+ note: '<b>NOTE</b>: Deadline around Oct 2022.'
+
+- title: LSA
+  year: 2023
+  id: lsa2023
+  link: https://www.linguisticsociety.org/meetings-institutes/annual-meetings/future
+#  deadline: '2022-07-15 23:59:59'
+#  timezone: UTC-12
+#  date: October 12-17, 2022
+#  place: Taipei City, Taiwan
+  sub: UC
+ note: '<b>NOTE</b>: Deadline around late spring/early summer 2022. - Non archival'
+
+- title: CMCL
+  year: 2023
+  id: CMCL2023
+  link: https://cmclorg.github.io/CfP
+  # deadline: '2022-03-07 23:59:59'
+  # timezone: UTC-12
+  # date: May 26, 2022
+  # place: Dublin, Ireland
+  sub: UC
+  note: '<b>NOTE</b>: Deadline around early 2023'
+
+- title: CogSci
+  year: 2023
+  id: cogsci2023
+  link: https://cognitivesciencesociety.org/cogsci-2022/
+  # deadline: '2022-03-07 23:59:59'
+  # timezone: UTC-12
+  # date: May 26, 2022
+  # place: Dublin, Ireland
+  sub: UC
+  note: '<b>NOTE</b>: Deadline around early 2023 - Non archival but with proceedings'
+
